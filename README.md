@@ -73,19 +73,6 @@ If you use this code, please cite:
 
 > Soyuhos, O., Hayes, T. R., Hu, W., Hamel, T. P., Sevak, B., Henderson, J. M., & Chen, X. (2026). *Meaning-based guidance of attention in rhesus monkeys during naturalistic scene viewing* (p. 2026.03.11.711223). bioRxiv. https://doi.org/10.64898/2026.03.11.711223
 
-BibTeX:
-
-```bibtex
-@article{soyuhos2026meaning,
-  title   = {Meaning-based guidance of attention in rhesus monkeys during naturalistic scene viewing},
-  author  = {Soyuhos, Orhan and Hayes, Taylor R. and Hu, W. and Hamel, T. P. and Sevak, B. and Henderson, John M. and Chen, X.},
-  journal = {bioRxiv},
-  pages   = {2026.03.11.711223},
-  year    = {2026},
-  doi     = {10.64898/2026.03.11.711223}
-}
-```
-
 ## Acknowledgments
 
 The `edf-converter-master/` directory bundles the **Edf2Mat** MATLAB toolbox
