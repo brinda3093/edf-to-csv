@@ -8,6 +8,8 @@ Fixations are taken from Eyelink's built-in event detection (`Efix`), filtered
 to those that fall inside the on-screen image rectangle, and expressed in
 image-local pixel coordinates.
 
+<img width="3213" height="942" alt="fixations_summary" src="https://github.com/user-attachments/assets/c6e91223-06e9-42bf-bd7f-6604e23b3f6e" />
+
 ## Repository layout
 
 ```
